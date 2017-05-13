@@ -14,6 +14,11 @@ public class Pagina {
 		
 		buscarDatosSesion();
 		
+		tratarDatosSesion();
+	}
+
+	private void tratarDatosSesion() {
+		
 	}
 
 	private void buscarDatosSesion() {
