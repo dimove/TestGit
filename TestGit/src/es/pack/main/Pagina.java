@@ -18,7 +18,7 @@ public class Pagina {
 
 	private void buscarDatosSesion() {
 		
-		
+		System.out.println("Buscamos datos de sesión.");
 	}
 	
 }
