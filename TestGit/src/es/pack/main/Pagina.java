@@ -18,12 +18,16 @@ public class Pagina {
 	}
 
 	private void tratarDatosSesion() {
-		
+		try {
+			
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
 	}
 
 	private void buscarDatosSesion() {
 		
-		System.out.println("Buscamos datos de sesión.");
+		System.out.println("Buscamos datos de sesiï¿½n.");
 	}
 	
 }
